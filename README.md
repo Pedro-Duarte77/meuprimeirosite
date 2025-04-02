@@ -7,7 +7,7 @@ https://pedro-duarte77.github.io/meuprimeirosite_1C_TurmaB_2025-main/
 https://pedro-duarte77.github.io/meuprimeirosite_1C_TurmaB_2025-main/cssinternoeexterno/indexinline.html
 
 ## CSS interno
-https://pedro-duarte77.github.io/meuprimeirosite_1C_TurmaB_2025-main/cssinternoeexterno/indexinterno.html
+https://pedro-duarte77.github.io/meuprimeirosite_1C_TurmaB_2025-main/cssinternoeexterno/Indexinterno.html
 
 ## CSS externo
 https://pedro-duarte77.github.io/meuprimeirosite_1C_TurmaB_2025-main/cssinternoeexterno/indexexterno.html
